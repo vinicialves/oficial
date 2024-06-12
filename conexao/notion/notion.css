@@ -1,0 +1,37 @@
+body{
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    background-color: #ececec
+  }
+  .todo{
+      background-color: #D9D9D9;
+      height: 97vh;
+      width: 50vh;
+      border-radius: 35px;
+  }
+  .nome{
+      text-align: center;  
+      padding-top: 6cap;
+      
+  }
+  #botao{
+      margin-left: 100px;
+      margin-top: 50px;
+      border-radius: 10px;
+      border-color: rgb(228, 228, 228);
+      border-style: outset;
+      width: 250px;
+      height: 24px;
+  }
+  textarea{
+      margin-top: 20px;
+      border-radius: 30px;
+      margin-left: 100px;
+      width: 250px;
+      height: 100px;
+      font-size: medium;
+      font-family: "League Spartan";
+      
+  }
